@@ -1,4 +1,4 @@
-let contador=0
+var contador=0
 
 function solicitarServicio() {
 
@@ -61,3 +61,7 @@ document.getElementById("modoBtn").addEventListener("click", function() {
     document.body.classList.toggle("dark")
 
 })
+function cambiarmodo(){
+    
+
+}
